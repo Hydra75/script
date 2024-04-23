@@ -1,0 +1,6 @@
+Alice:Dupont:admin,users:oui:password123
+Bob:Martin:users:non:password456
+Céline:Durand:admin:oui:password789
+David:Petit:marketing,sales:non:password101
+Eva:Moreau::non:password202
+François:Roux:admin,users,marketing:oui:password303
